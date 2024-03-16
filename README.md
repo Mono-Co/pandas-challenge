@@ -102,9 +102,21 @@ This new DataFrame should show school performance based on the "School Type".
 <img width="1124" alt="image" src="https://github.com/Mono-Co/pandas-challenge/assets/69753431/99bf46e1-5708-4713-abb0-906fc9b8bbb2">
 
 
-**Report Summary**
+**Report Findings Summary**
+1. 1. The Independant schools performed better on average than the Government Schools across all of the repprted metrics;
+  2.   Average Maths Score
+  3.   Average Reading Score
+  4.   % Passing Maths
+  5.   % Passing Reading
+  6.   % Overall Passing
 
+2. Smaller schools with less than <1,000 students performed better on average than the larger schools.
 
+3. Schools with a spending range per student of $585-630 performed better on average than the other fundings.
+
+4. The Best perfromaing School across all of the repprted metrics was Griffin High School.
+
+5. The Worst Perfmrming School across all of the repprted metrics was Ford High School. 
 
 
 
