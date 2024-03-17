@@ -58,15 +58,13 @@ Maths Scores by Year
 Perform the necessary calculations to create a DataFrame that lists the average maths score for students of each year level (9, 10, 11, 12) at each school.
 
 **Maths Scores by Year - Screen Shot**
-<img width="1133" alt="image" src="https://github.com/Mono-Co/pandas-challenge/assets/69753431/79d0ab73-a401-4060-b6da-af4a0fb34139">
-
+<img width="1126" alt="image" src="https://github.com/Mono-Co/pandas-challenge/assets/69753431/9650e343-5a49-40c9-9305-95a27683ea4f">
 
 Reading Scores by Year
 Create a DataFrame that lists the average reading score for students of each year level (9, 10, 11, 12) at each school.
 
 **Reading Scores by Year - Screen Shot**
-<img width="1130" alt="image" src="https://github.com/Mono-Co/pandas-challenge/assets/69753431/f767ab7c-6d86-485a-b343-49ba60f04ffe">
-
+<img width="1122" alt="image" src="https://github.com/Mono-Co/pandas-challenge/assets/69753431/dff47242-a28e-4e4b-bb2b-82ae3deed277">
 
 Scores by School Spending
 Create a table that breaks down school performance based on average spending ranges (per student).
